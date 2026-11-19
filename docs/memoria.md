@@ -1,1 +1,3 @@
-El primer problema al que me he enfrentado ha sido que uno de los .csv es demasiado grande para github y no me deja subirlo. He optado por borrarlo y comprimirlo en un .zip y lo que haré es descomprimirlo para trabajar en local pero meterlo en el gitignore
+El primer problema al que me he enfrentado ha sido que uno de los .csv es demasiado grande para github y no me deja subirlo. He optado por borrarlo y comprimirlo en un .zip y lo que haré es descomprimirlo para trabajar en local pero meterlo en el gitignore.
+Antes de eso necesito crear el .venv, el requirements.tx
+Al final he borrado las carpetas raw y processed del repositorio y las mantendré solo en local porque así lo tenía en los anteriores proyectos
