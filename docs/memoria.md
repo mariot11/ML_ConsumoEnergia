@@ -1,0 +1,1 @@
+El primer problema al que me he enfrentado ha sido que uno de los .csv es demasiado grande para github y no me deja subirlo. He optado por borrarlo y comprimirlo en un .zip y lo que haré es descomprimirlo para trabajar en local pero meterlo en el gitignore
